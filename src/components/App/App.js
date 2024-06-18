@@ -8,7 +8,7 @@ function App() {
     <>
     <Header />
     <main>
-      <h1>Content</h1>
+      <h1 style={{margin: "1rem"}}>Content</h1>
     </main>
     <Footer />
     </>
